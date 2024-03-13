@@ -47,7 +47,6 @@ React PhoneBook is a simple phone book application built with React. Whether you
 
 ## Features
 
-- **User-Friendly Interface:** Easily add and view contacts with a clean and intuitive interface.
 - **CRUD Operations:** Perform Create, Read, Update, and Delete operations to manage your contacts effectively.
 - **Learning Tool:** Ideal for learning about CRUD operations and practicing React development.
 - **Customization:** Extend React PhoneBook with additional features like search and sorting functionalities.
