@@ -41,7 +41,7 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![Screen Shot](phonebook.png)
 
 React PhoneBook is a simple phone book application built with React. Whether you're a beginner learning React or an experienced developer exploring CRUD operations, React PhoneBook helps you to learn and customize the code to suite your CRUD operatioons.
 
