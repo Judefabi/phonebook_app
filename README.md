@@ -70,7 +70,7 @@ git clone https://github.com/Judefabi/phonebook_app.git
 2. Navigate to the project directory:
 
 ```sh
-cd Todo-App
+cd Phonebook
 ```
 
 ### Installation
@@ -83,7 +83,7 @@ npm install
 
 ### Usage
 
-Once you have cloned the repository and installed the dependencies, you can start using Todo App in your development environment.
+Once you have cloned the repository and installed the dependencies, you can start using Phonebook App in your development environment.
 
 ## Contributing
 
